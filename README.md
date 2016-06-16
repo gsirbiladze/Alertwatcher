@@ -9,7 +9,7 @@ full path to file location, How many lines after match to send(n), How many line
 /rootfolser/subfolder/.../some_file_to_monitor:20:10:0:any word in here as subject for e-mail:recipient1@somemail.com,recipient2@somemail.com,recipient3@somemail.com
 
 #RESTRICTION WARNING 
-DO NOT USE ":" INSIDE OF ANY PARAMETER.  ":" IS SEPARATOR
+DO NOT USE ":" INSIDE OF ANY PARAMETER.  ":" IS A SEPARATOR
 
 
 #Real examples :
