@@ -1,6 +1,6 @@
 #Alertwatcher :
 File parser for specific pattern which identifies newer appearance of pattern inside file.
-Initial this was created for alert.log monitor for Oracle database
+"Alertwatcher" Initial was created to monitor alert.log file for Oracle database
 
 #Configuration file format :
 full path to file location, How many lines after match to send(n), How many lines before match send(n), match position, mail subject, recipients list
