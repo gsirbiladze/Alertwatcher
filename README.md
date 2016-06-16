@@ -17,3 +17,12 @@
 /opt/apps/dbInfra/diag/rdbms/example/EXAMPLEDB/trace/alert_EXAMPLEDB.log:1:30:14332:ALERT dIN:recipient1@somemail.com,recipient2@somemail.com,recipient3@somemail.com
 
 
+! Symbol Test
+@ Symbol Test
+# Symbol Test
+$ Symbol Test
+% Symbol Test
+^ Symbol Test
+& Symbol Test
+* Symbol Test
+
